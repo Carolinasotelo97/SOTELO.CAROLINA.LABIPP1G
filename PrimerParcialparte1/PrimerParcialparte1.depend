@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1602891985 source:c:\users\caroo\onedrive\escritorio\primerparcialparte1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Color.h"
+
+1602885462 source:c:\users\caroo\onedrive\escritorio\primerparcialparte1\fecha.c
+
+1602892667 source:c:\users\caroo\onedrive\escritorio\primerparcialparte1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tipo.h"
+
+1602891754 c:\users\caroo\onedrive\escritorio\primerparcialparte1\color.h
+
+1602894260 c:\users\caroo\onedrive\escritorio\primerparcialparte1\tipo.h
+	"Color.h"
+
